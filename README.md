@@ -14,4 +14,5 @@ HTML
 CSS
 
 <h2> ekran görüntüsü  </h2>
-![](travels.gif)
+
+![](ekran.gif)
